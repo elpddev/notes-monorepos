@@ -14,15 +14,15 @@
 
 [documentations](https://nx.app/docs/add-nx-cloud-to-workspace)
 
+[docs - distribute cache](https://nx.app/docs/distributed-caching)
+
+[docs - distrubute execution](https://nx.app/docs/distributed-execution)
+
 ### Turburepo
 
 [official site](https://turborepo.org/)
 
 [documentations](https://turborepo.org/docs)
-
-[docs - distribute cache](https://nx.app/docs/distributed-caching)
-
-[docs - distrubute execution](https://nx.app/docs/distributed-execution)
 
 #### Remote Cache
 
