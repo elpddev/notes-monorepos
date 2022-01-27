@@ -5,18 +5,23 @@
 ### NX
 
 [official site](https://nx.dev/)
+
 [documentations](https://nx.dev/getting-started/intro)
 
 #### Nx - Cloud
 
 [official site](https://nx.app/)
+
 [documentations](https://nx.app/docs/add-nx-cloud-to-workspace)
 
 ### Turburepo
 
 [official site](https://turborepo.org/)
+
 [documentations](https://turborepo.org/docs)
+
 [docs - distribute cache](https://nx.app/docs/distributed-caching)
+
 [docs - distrubute execution](https://nx.app/docs/distributed-execution)
 
 #### Remote Cache
